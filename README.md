@@ -1,7 +1,7 @@
-cpuminer-opt is a fork of cpuminer-multi by TPruvot with optimizations
-imported from other miners developped by lucas Jones, djm34, Wolf0, pooler,
+isotopec-cpuminer is a fork of cpuminer-multi by TPruvot and cpuminer-opt by Jay D Dee. With additional optimizations
+from other miners. lucas Jones, djm34, Wolf0, pooler,
 Jeff garzik, ig0tik3d, elmad, palmd, barrystyle, Jay D Dee, Optiminer, 
-RicKillerz with additional optimizations by IsotopeCrypto.
+RicKillerz with additional optimizations by IsotopeCrypto. Live free and mine!
 
 All of the code is believed to be open and free. If anyone has a
 claim to any of it post your case in the IsotopeC Bitcoin Talk forum
@@ -127,7 +127,7 @@ Supported Algorithms
                           yescryptr32   WAVI
                           yespower      Cryply
                           yespowerr16   Yenten (YTN)
-                          yespowerIC	IsotopeC (ISO)
+                     ---> yespowerIC	  IsotopeC (ISO)
                           cpupower      CPUchain (CPU)
                           yespowerltncg Lightningcash-Gold (Ltncg)
                           yespowerlitb  LightBit (LITB)
